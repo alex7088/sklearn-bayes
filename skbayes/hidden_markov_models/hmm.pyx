@@ -1,5 +1,5 @@
 from scipy.special import psi,gammaln
-from scipy.misc import logsumexp
+from scipy.special import logsumexp
 from scipy.linalg import pinvh
 from sklearn.utils.extmath import safe_sparse_dot
 from sklearn.base import BaseEstimator
